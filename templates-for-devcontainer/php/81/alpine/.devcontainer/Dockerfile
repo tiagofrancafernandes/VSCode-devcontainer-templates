@@ -55,8 +55,9 @@ php81-pecl-redis \
 php81-pecl-swoole \
 php81-tokenizer \
 php81-phar \
-composer-zsh-completion \
 composer \
+composer-zsh-completion \
+openssh \
 zip \
 unzip \
 openssl \
